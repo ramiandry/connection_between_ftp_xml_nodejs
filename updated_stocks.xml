@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stocks>
+  <product>
+    <id>1</id>
+    <name>Produit A</name>
+    <quantity>100</quantity>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Produit B</name>
+    <quantity>200</quantity>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Produit C</name>
+    <quantity>200</quantity>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Produit C</name>
+    <quantity>200</quantity>
+  </product>
+</stocks>
